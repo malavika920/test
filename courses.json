@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "courseName": "Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "8 weeks",
+    "price": 200,
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "courseName": "Data Science with Python",
+    "instructor": "Jane Smith",
+    "duration": "10 weeks",
+    "price": 300,
+    "category": "Data Science"
+  },
+  {
+    "id": 3,
+    "courseName": "Graphic Design Masterclass",
+    "instructor": "Emma Brown",
+    "duration": "6 weeks",
+    "price": 150,
+    "category": "Design"
+  },
+  {
+    "id": 4,
+    "courseName": "Digital Marketing Basics",
+    "instructor": "Mike Johnson",
+    "duration": "4 weeks",
+    "price": 100,
+    "category": "Marketing"
+  },
+  {
+    "id": 5,
+    "courseName": "Mobile App Development",
+    "instructor": "Chris Lee",
+    "duration": "12 weeks",
+    "price": 350,
+    "category": "Development"
+  },
+  {
+    "id": 6,
+    "courseName": "Cloud Computing with AWS",
+    "instructor": "Sophia Wilson",
+    "duration": "8 weeks",
+    "price": 400,
+    "category": "Cloud Computing"
+  }
+]
